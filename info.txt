@@ -1,0 +1,7 @@
+¿Alguna vez has abierto tu biblioteca de juegos y no has sido capaz de decidir a qué jugar?
+
+La propuesta es una plataforma que recibe demos y versiones de prueba de juegos indie. 
+
+Funciona como una simbiosis: el desarrollador obtiene beta testing accesible por parte de cualquier usuario, sin barrera de pago; y el usuario puede jugar y dar feedback de estos.
+
+El usuario no tiene ninguna información de lo que está jugando, por lo que su primera experiencia parte sin prejuicios.
